@@ -1,4 +1,4 @@
-# Reconhecimento-de-Imagens
+# Image Recognition 
 
 A program created for study purposes, with the objective to recognize and classificate image.
 
