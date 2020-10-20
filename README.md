@@ -1,7 +1,11 @@
 # Reconhecimento-de-Imagens
 
-Um software elaborado em ambiete de estudos com o objetivo de reconhecer imagens e classificar
+A program created for study purposes, with the objective to recognize and classificate image.
 
-Foi utilizado o TensorFlow como IA para fazer o reconhecimento e classificação e linguagem Python para construção.
+I used TensorFlow to analyze the data and Python to code.
 
-Ainda em estágio de desenvolvimento.
+Together there is a modified program to search for images to create a database.
+
+The searcher, can search up to 100 images save then on a directory and then create a CSV file for uses.
+The search its a modified version of the code from Joeclinton1 repository (https://github.com/Joeclinton1/google-images-download)
+Go there for further information about the searcher.
